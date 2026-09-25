@@ -8,8 +8,6 @@
 
 **Deep Learning for Agricultural Disease Detection | Multiple-Instance Learning | Transfer Learning**
 
-[Documentation](#documentation) | [Quick Start](#quick-start) | [Architecture](#architecture) | [Results](#results) | [Citation](#citation)
-
 </div>
 
 ---
